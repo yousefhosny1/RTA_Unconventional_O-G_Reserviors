@@ -5,3 +5,4 @@ Rate Trasient Analysis (RTA) for Unconventional Oil & Gas Reserviors
 * Formulated 2 hypothesis about the data and conducted significance test to evaluate the hypothesis by calculating p-values
 * Built Multivariate Linear Regression model to predict the production of unconventional Oil and Gas reserviors
 * Evaluated Model Performance, Achieved R^2: 0.94, MAE:  0.03793, MSE:  0.00266 and RMSE:  0.05159
+* Successfully tuned the hyperparameters and increase the R2 score from 0.94 to 0.97035
